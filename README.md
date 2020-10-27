@@ -29,7 +29,11 @@ Preview
 | :-------------: |:-------------:| :-----:|
 | ![alt text](https://raw.githubusercontent.com/irfanhkm/bukajalan-prototype-web/master/preview-pemilihanrute.JPG)      | ![alt text](https://raw.githubusercontent.com/irfanhkm/bukajalan-prototype-web/master/preview-reviewkejadian.JPG) |![alt text](https://raw.githubusercontent.com/irfanhkm/bukajalan-prototype-web/master/preview-detailkendaraan.JPG) |
 
-  
+## Powerpoint link
+http://bit.ly/bukajalan-pitching2
+http://bit.ly/bukajalan-pitching1
+
+Link powerpoint saat kami pitching dengan calon investor  
   
    
 
